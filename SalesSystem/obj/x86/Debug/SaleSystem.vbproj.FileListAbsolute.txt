@@ -1,0 +1,12 @@
+C:\Users\SABER\AppData\Local\Temporary Projects\SaleSystem\bin\Debug\SaleSystem.exe
+C:\Users\SABER\AppData\Local\Temporary Projects\SaleSystem\bin\Debug\SaleSystem.pdb
+C:\Users\SABER\AppData\Local\Temporary Projects\SaleSystem\bin\Debug\SaleSystem.xml
+C:\Users\SABER\AppData\Local\Temporary Projects\SaleSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SABER\AppData\Local\Temporary Projects\SaleSystem\obj\x86\Debug\SaleSystem.Form1.resources
+C:\Users\SABER\AppData\Local\Temporary Projects\SaleSystem\obj\x86\Debug\SaleSystem.Frmcustomers.resources
+C:\Users\SABER\AppData\Local\Temporary Projects\SaleSystem\obj\x86\Debug\SaleSystem.Resources.resources
+C:\Users\SABER\AppData\Local\Temporary Projects\SaleSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SABER\AppData\Local\Temporary Projects\SaleSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SABER\AppData\Local\Temporary Projects\SaleSystem\obj\x86\Debug\SaleSystem.exe
+C:\Users\SABER\AppData\Local\Temporary Projects\SaleSystem\obj\x86\Debug\SaleSystem.xml
+C:\Users\SABER\AppData\Local\Temporary Projects\SaleSystem\obj\x86\Debug\SaleSystem.pdb
